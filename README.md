@@ -91,7 +91,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone (https://github.com/Saksham0205/faym_flutter)
+   git clone https://github.com/Saksham0205/faym_flutter
    cd task_faym
    ```
 
